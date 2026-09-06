@@ -32,13 +32,13 @@ Demo:
 Compress:
 
 ```bash
-./vitter_huffman compress input.txt output.huff
+./vitter_huffman.exe compress input.txt output.huff
 ```
 
 Decompress:
 
 ```bash
-./vitter_huffman decompress output.huff restored.txt
+./vitter_huffman.exe decompress output.huff restored.txt
 ```
 
 ## Important
